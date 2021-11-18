@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#3da2d4</color>
+    <color name="colorDanger">#EA5455</color>
+    <color name="colorPrimaryBack">#E0EAFF</color>
+    <color name="colorLightGrayStep">#EEEEEE</color>
+    <color name="colorSendBtnActive">#4f4a5f</color>
+    <color name="colorSubtle">#767676</color>
+    <color name="colorGrayNextButtonDisable">#afabb9</color>
+    <color name="colorActive">#5E5873</color>
+    <color name="colorBlack">#111111</color>
+    <color name="colorGrayText">#625F6E</color>
+    <color name="colorCodeResendBtn">#007FAF</color>
+    <color name="colorSecondary">#787880</color>
+    <color name="colorLightGrayText">#B9B9C3</color>
+    <color name="colorHint">#C5CACF</color>
+    <color name="colorDivider">#E5E5E7</color>
+
+    <color name="colorSelectedGreen">#BEE0B5</color>
+    
+</resources>

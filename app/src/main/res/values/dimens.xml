@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="corner_radius_val">6dp</dimen>
+    <dimen name="normal_button_radius_size">4dp</dimen>
+    <dimen name="icon_size">24sp</dimen>
+    <dimen name="numpad_margin_horizontal_size">8dp</dimen>
+    <dimen name="numpad_margin_vertical_size">6dp</dimen>
+    <dimen name="numpad_text_size">24sp</dimen>
+    <dimen name="button_text_size">14sp</dimen>
+    <dimen name="final_check_ic_size">48dp</dimen>
+    <dimen name="divider_height">1dp</dimen>
+
+    <dimen name="avatar_img_size">40dp</dimen>
+</resources>
